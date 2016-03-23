@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Doodle</string>
+    <string-array name="planets_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Purple</item>
+        <item>Magenta</item>
+    </string-array>
+</resources>
